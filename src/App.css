@@ -21,7 +21,8 @@
 .app-header .logo {
   height: 50px;
   width: 96px;
-  margin-left: -10px;
+  margin-left: -15px;
+  margin-bottom: -4px;
 }
 
 .chat-container {

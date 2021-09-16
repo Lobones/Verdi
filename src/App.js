@@ -18,7 +18,7 @@ function App() {
     <div className="App">
       <header className="app-header">
         <img className="image" src="/verdi-low.png" alt="verdi"/>
-        <img className="logo" src="/verdi-logo.png" alt="verdi"/>
+        <img className="logo" src="/verdi-logo-alt-b.png" alt="verdi"/>
       </header>
       {socket ? (
         <div className="chat-container">
