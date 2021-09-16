@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.imgur.com/CZnkrcG.png" alt="Verdi"/>
+  <img src="https://i.imgur.com/CZnkrcG.png" alt="Verdi."/>
 </p>
 
 # Verdi. Realtime. Chat.
