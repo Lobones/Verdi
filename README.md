@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://i.imgur.com/CZnkrcG.png" alt="Verdi"/>
+</p>
+
 # Verdi. Realtime. Chat.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
