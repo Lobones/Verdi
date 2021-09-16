@@ -1,6 +1,6 @@
 <p align="center">
   <img src="https://i.imgur.com/CZnkrcG.png" alt="Verdi."/>
-  <img src="https://i.imgur.com/RohduYY.png" alt="Verdi."/>
+  <p align="center"><img src="https://i.imgur.com/RohduYY.png" alt="Verdi."/></p>
 </p>
 
 # Verdi. Realtime. Chat.
