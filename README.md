@@ -8,3 +8,10 @@
 This is a project dedicated to introducing the use of [ReactJS](https://reactjs.org), [Express](https://expressjs.com) and [SocketIO](https://socket.io).
 
 <img src="https://github.com/Lobones/Verdi/blob/master/images/verdi-mockup.png?raw=true" alt="Mockup." style="height: 555px; width: 735px;"/>
+
+### To Do:
+- [X] - SocketIO working as it should.
+- [X] - Functional message input.
+- [X] - Messages with expiration time.
+- [ ] - Registration and identification of users.
+- [ ] - Add more user experience functions.
