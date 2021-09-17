@@ -7,4 +7,4 @@
 
 This is an academic project, dedicated to introducing the use of [ReactJS](https://reactjs.org), [Express](https://expressjs.com) and [SocketIO](https://socket.io).
 
-<img src="https://github.com/Lobones/Verdi/blob/master/images/verdi-mockup.png?raw=true" alt="Mockup." style="height: 400px; width: 600px;"/>
+<img src="https://github.com/Lobones/Verdi/blob/master/images/verdi-mockup.png?raw=true" alt="Mockup." style="height: 555px; width: 735px;"/>
