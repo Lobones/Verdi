@@ -9,4 +9,4 @@ This is an academic project, dedicated to introducing the use of [ReactJS](https
 
 ### Print.
 
-<img src="https://github.com/Lobones/Verdi/blob/master/images/verdi-mockup.png?raw=true" alt="Mockup." style="height: 731px; width: 558px;"/>
+<img src="https://github.com/Lobones/Verdi/blob/master/images/verdi-mockup.png?raw=true" alt="Mockup." style="height: 400px; width: 270px;"/>
